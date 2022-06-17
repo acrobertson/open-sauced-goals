@@ -1,32 +1,32 @@
 [
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 18349,
+    "stargazers_count": 18381,
     "open_issues_count": 28,
-    "forks_count": 1021
+    "forks_count": 1023
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 40809,
-    "open_issues_count": 4,
-    "forks_count": 9000
+    "stargazers_count": 40855,
+    "open_issues_count": 2,
+    "forks_count": 9006
   },
   {
     "full_name": "coding-horror/basic-computer-games",
-    "stargazers_count": 8786,
+    "stargazers_count": 8795,
     "open_issues_count": 9,
-    "forks_count": 1138
+    "forks_count": 1140
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 196290,
-    "open_issues_count": 2,
-    "forks_count": 22629
+    "stargazers_count": 196487,
+    "open_issues_count": 6,
+    "forks_count": 22649
   },
   {
     "full_name": "framer/motion",
-    "stargazers_count": 14893,
-    "open_issues_count": 172,
-    "forks_count": 456
+    "stargazers_count": 14920,
+    "open_issues_count": 174,
+    "forks_count": 458
   }
 ]
