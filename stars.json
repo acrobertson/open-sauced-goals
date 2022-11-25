@@ -1,50 +1,56 @@
 [
   {
+    "full_name": "nullchilly/fsread.nvim",
+    "stargazers_count": 63,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "google/react-schemaorg",
-    "stargazers_count": 388,
+    "stargazers_count": 390,
     "open_issues_count": 7,
     "forks_count": 18
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 5618,
-    "open_issues_count": 3,
-    "forks_count": 409
+    "stargazers_count": 5668,
+    "open_issues_count": 9,
+    "forks_count": 412
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 27960,
-    "open_issues_count": 17265,
-    "forks_count": 2728
+    "stargazers_count": 28036,
+    "open_issues_count": 17417,
+    "forks_count": 2739
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 20414,
+    "stargazers_count": 20448,
     "open_issues_count": 31,
-    "forks_count": 1154
+    "forks_count": 1153
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 45494,
-    "open_issues_count": 1,
-    "forks_count": 9691
+    "stargazers_count": 45814,
+    "open_issues_count": 0,
+    "forks_count": 9715
   },
   {
     "full_name": "coding-horror/basic-computer-games",
-    "stargazers_count": 9144,
+    "stargazers_count": 9146,
     "open_issues_count": 13,
-    "forks_count": 1189
+    "forks_count": 1190
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 216749,
-    "open_issues_count": 73,
-    "forks_count": 24801
+    "stargazers_count": 217756,
+    "open_issues_count": 77,
+    "forks_count": 24894
   },
   {
     "full_name": "framer/motion",
-    "stargazers_count": 16601,
-    "open_issues_count": 230,
-    "forks_count": 514
+    "stargazers_count": 16631,
+    "open_issues_count": 228,
+    "forks_count": 517
   }
 ]
