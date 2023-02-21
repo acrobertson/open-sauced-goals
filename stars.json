@@ -1,25 +1,25 @@
 [
   {
     "full_name": "antfu/ni",
-    "stargazers_count": 3217,
+    "stargazers_count": 3242,
     "open_issues_count": 4,
     "forks_count": 103
   },
   {
     "full_name": "teaxyz/cli",
-    "stargazers_count": 5821,
-    "open_issues_count": 36,
-    "forks_count": 394
+    "stargazers_count": 5854,
+    "open_issues_count": 38,
+    "forks_count": 398
   },
   {
     "full_name": "iway1/react-ts-form",
     "stargazers_count": 1703,
-    "open_issues_count": 10,
-    "forks_count": 22
+    "open_issues_count": 11,
+    "forks_count": 23
   },
   {
     "full_name": "epwalsh/obsidian.nvim",
-    "stargazers_count": 379,
+    "stargazers_count": 391,
     "open_issues_count": 21,
     "forks_count": 22
   },
@@ -37,44 +37,44 @@
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 6583,
-    "open_issues_count": 13,
-    "forks_count": 477
+    "stargazers_count": 6626,
+    "open_issues_count": 14,
+    "forks_count": 480
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 30465,
-    "open_issues_count": 21030,
-    "forks_count": 3092
+    "stargazers_count": 30559,
+    "open_issues_count": 21255,
+    "forks_count": 3111
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 21417,
-    "open_issues_count": 50,
-    "forks_count": 1219
+    "stargazers_count": 21470,
+    "open_issues_count": 51,
+    "forks_count": 1220
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 47839,
+    "stargazers_count": 47910,
     "open_issues_count": 0,
-    "forks_count": 10009
+    "forks_count": 10022
   },
   {
     "full_name": "coding-horror/basic-computer-games",
-    "stargazers_count": 9331,
+    "stargazers_count": 9334,
     "open_issues_count": 12,
-    "forks_count": 1211
+    "forks_count": 1210
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 228303,
-    "open_issues_count": 141,
-    "forks_count": 25998
+    "stargazers_count": 228696,
+    "open_issues_count": 144,
+    "forks_count": 26041
   },
   {
     "full_name": "framer/motion",
-    "stargazers_count": 17610,
-    "open_issues_count": 185,
-    "forks_count": 548
+    "stargazers_count": 17648,
+    "open_issues_count": 188,
+    "forks_count": 549
   }
 ]
