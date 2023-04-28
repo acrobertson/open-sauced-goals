@@ -1,37 +1,37 @@
 [
   {
     "full_name": "sts10/rust-command-line-utilities",
-    "stargazers_count": 179,
+    "stargazers_count": 190,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "FormidableLabs/groqd",
-    "stargazers_count": 110,
+    "stargazers_count": 113,
     "open_issues_count": 22,
     "forks_count": 6
   },
   {
     "full_name": "antfu/ni",
-    "stargazers_count": 4041,
+    "stargazers_count": 4060,
     "open_issues_count": 7,
     "forks_count": 118
   },
   {
     "full_name": "teaxyz/cli",
-    "stargazers_count": 6459,
-    "open_issues_count": 50,
-    "forks_count": 423
+    "stargazers_count": 6469,
+    "open_issues_count": 46,
+    "forks_count": 422
   },
   {
     "full_name": "iway1/react-ts-form",
-    "stargazers_count": 1823,
-    "open_issues_count": 15,
+    "stargazers_count": 1825,
+    "open_issues_count": 16,
     "forks_count": 32
   },
   {
     "full_name": "epwalsh/obsidian.nvim",
-    "stargazers_count": 575,
+    "stargazers_count": 583,
     "open_issues_count": 28,
     "forks_count": 32
   },
@@ -43,50 +43,50 @@
   },
   {
     "full_name": "google/react-schemaorg",
-    "stargazers_count": 421,
+    "stargazers_count": 422,
     "open_issues_count": 7,
     "forks_count": 21
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 9080,
-    "open_issues_count": 1,
-    "forks_count": 620
+    "stargazers_count": 9132,
+    "open_issues_count": 0,
+    "forks_count": 626
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 33043,
-    "open_issues_count": 23779,
-    "forks_count": 3440
+    "stargazers_count": 33205,
+    "open_issues_count": 23879,
+    "forks_count": 3462
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 22279,
-    "open_issues_count": 60,
-    "forks_count": 1283
+    "stargazers_count": 22334,
+    "open_issues_count": 56,
+    "forks_count": 1287
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 50916,
+    "stargazers_count": 50963,
     "open_issues_count": 0,
-    "forks_count": 10402
+    "forks_count": 10413
   },
   {
     "full_name": "coding-horror/basic-computer-games",
-    "stargazers_count": 9412,
+    "stargazers_count": 9414,
     "open_issues_count": 12,
-    "forks_count": 1221
+    "forks_count": 1222
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 237323,
-    "open_issues_count": 188,
-    "forks_count": 26967
+    "stargazers_count": 237628,
+    "open_issues_count": 189,
+    "forks_count": 27005
   },
   {
     "full_name": "framer/motion",
-    "stargazers_count": 18412,
-    "open_issues_count": 220,
-    "forks_count": 588
+    "stargazers_count": 18460,
+    "open_issues_count": 223,
+    "forks_count": 587
   }
 ]
