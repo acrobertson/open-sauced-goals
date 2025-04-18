@@ -1,19 +1,19 @@
 [
   {
     "full_name": "ALT-F4-LLC/kickstart.nix",
-    "stargazers_count": 198,
+    "stargazers_count": 197,
     "open_issues_count": 4,
     "forks_count": 33
   },
   {
     "full_name": "stefandtw/quickfix-reflector.vim",
-    "stargazers_count": 356,
+    "stargazers_count": 355,
     "open_issues_count": 3,
     "forks_count": 18
   },
   {
     "full_name": "j-hui/fidget.nvim",
-    "stargazers_count": 2199,
+    "stargazers_count": 2203,
     "open_issues_count": 23,
     "forks_count": 64
   },
@@ -25,25 +25,25 @@
   },
   {
     "full_name": "Canop/broot",
-    "stargazers_count": 11239,
-    "open_issues_count": 233,
+    "stargazers_count": 11252,
+    "open_issues_count": 231,
     "forks_count": 240
   },
   {
     "full_name": "smoka7/multicursors.nvim",
-    "stargazers_count": 586,
+    "stargazers_count": 589,
     "open_issues_count": 12,
     "forks_count": 16
   },
   {
     "full_name": "stevearc/oil.nvim",
-    "stargazers_count": 4968,
-    "open_issues_count": 87,
+    "stargazers_count": 4991,
+    "open_issues_count": 88,
     "forks_count": 152
   },
   {
     "full_name": "sts10/rust-command-line-utilities",
-    "stargazers_count": 783,
+    "stargazers_count": 785,
     "open_issues_count": 1,
     "forks_count": 28
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "antfu-collective/ni",
-    "stargazers_count": 6860,
+    "stargazers_count": 6869,
     "open_issues_count": 28,
     "forks_count": 226
   },
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "epwalsh/obsidian.nvim",
-    "stargazers_count": 5092,
-    "open_issues_count": 199,
+    "stargazers_count": 5107,
+    "open_issues_count": 200,
     "forks_count": 259
   },
   {
@@ -85,44 +85,44 @@
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 13238,
-    "open_issues_count": 2,
-    "forks_count": 943
+    "stargazers_count": 13256,
+    "open_issues_count": 3,
+    "forks_count": 945
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 45038,
-    "open_issues_count": 31756,
-    "forks_count": 4906
+    "stargazers_count": 45076,
+    "open_issues_count": 31762,
+    "forks_count": 4912
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 28637,
-    "open_issues_count": 83,
-    "forks_count": 1673
+    "stargazers_count": 28654,
+    "open_issues_count": 85,
+    "forks_count": 1677
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 60398,
+    "stargazers_count": 60417,
     "open_issues_count": 1,
-    "forks_count": 11692
+    "forks_count": 11690
   },
   {
     "full_name": "coding-horror/basic-computer-games",
-    "stargazers_count": 10961,
+    "stargazers_count": 10963,
     "open_issues_count": 20,
     "forks_count": 1346
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 335621,
-    "open_issues_count": 441,
-    "forks_count": 35510
+    "stargazers_count": 335799,
+    "open_issues_count": 444,
+    "forks_count": 35527
   },
   {
     "full_name": "motiondivision/motion",
-    "stargazers_count": 28160,
-    "open_issues_count": 278,
-    "forks_count": 935
+    "stargazers_count": 28183,
+    "open_issues_count": 274,
+    "forks_count": 938
   }
 ]
