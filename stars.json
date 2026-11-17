@@ -1,14 +1,14 @@
 [
   {
     "full_name": "Doc-Steve/dendritic-design-with-flake-parts",
-    "stargazers_count": 471,
+    "stargazers_count": 475,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "AlexNabokikh/nix-config",
-    "stargazers_count": 428,
-    "open_issues_count": 0,
+    "stargazers_count": 429,
+    "open_issues_count": 1,
     "forks_count": 27
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "stefandtw/quickfix-reflector.vim",
-    "stargazers_count": 367,
+    "stargazers_count": 368,
     "open_issues_count": 3,
     "forks_count": 17
   },
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "Canop/broot",
-    "stargazers_count": 13177,
-    "open_issues_count": 104,
+    "stargazers_count": 13163,
+    "open_issues_count": 103,
     "forks_count": 328
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "stevearc/oil.nvim",
-    "stargazers_count": 6998,
-    "open_issues_count": 165,
-    "forks_count": 263
+    "stargazers_count": 6984,
+    "open_issues_count": 166,
+    "forks_count": 264
   },
   {
     "full_name": "sts10/rust-command-line-utilities",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "antfu-collective/ni",
-    "stargazers_count": 8322,
-    "open_issues_count": 27,
-    "forks_count": 280
+    "stargazers_count": 8321,
+    "open_issues_count": 28,
+    "forks_count": 281
   },
   {
     "full_name": "iway1/react-ts-form",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "epwalsh/obsidian.nvim",
-    "stargazers_count": 6220,
+    "stargazers_count": 6225,
     "open_issues_count": 195,
     "forks_count": 249
   },
@@ -91,31 +91,31 @@
   },
   {
     "full_name": "google/react-schemaorg",
-    "stargazers_count": 524,
+    "stargazers_count": 525,
     "open_issues_count": 11,
     "forks_count": 21
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 14485,
+    "stargazers_count": 14486,
     "open_issues_count": 2,
     "forks_count": 944
   },
   {
     "full_name": "type-challenges/type-challenges",
     "stargazers_count": 48571,
-    "open_issues_count": 33348,
-    "forks_count": 5251
+    "open_issues_count": 33349,
+    "forks_count": 5252
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 33697,
-    "open_issues_count": 37,
-    "forks_count": 2101
+    "stargazers_count": 33780,
+    "open_issues_count": 26,
+    "forks_count": 2113
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 67396,
+    "stargazers_count": 67416,
     "open_issues_count": 5,
     "forks_count": 12310
   },
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 498613,
-    "open_issues_count": 2690,
-    "forks_count": 55835
+    "stargazers_count": 499698,
+    "open_issues_count": 2745,
+    "forks_count": 56028
   },
   {
     "full_name": "motiondivision/motion",
-    "stargazers_count": 35104,
-    "open_issues_count": 7,
-    "forks_count": 1531
+    "stargazers_count": 35290,
+    "open_issues_count": 12,
+    "forks_count": 1562
   }
 ]
